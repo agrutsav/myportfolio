@@ -30,7 +30,7 @@ export const projectData= [
         image2: food2,
         title: 'Food Website',
         github: 'https://github.com/agrutsav/GoFoodfrontend',
-        demo: 'https://puzzle-website.netlify.app/'
+        demo: 'https://foodline.netlify.app/'
     },
     
     
